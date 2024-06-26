@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Long-HiLAT",
+      "description": "Improved Transformer-based models for explainable ICD Coding.",
+      "skills": ["Python", "Pytorch", "LLMs", "Gradio", "NLP"],
+      "demo": "https://huggingface.co/spaces/meghanaraok/LongLAT",
+      "source": "https://github.com/meghanaraokanneganti/Long-HiLAT"
+    },
+    {
+      "title": "Automated Open Elective system",
+      "description": "Online application which allows students to opt for open elective courses.",
+      "skills": ["Java", "HTMK", "CSS", "Javascript", "SQL"],
+      "demo": "https://github.com/meghanaraokanneganti/",
+      "source": "https://github.com/meghanaraokanneganti/"
+    },
+    {
+      "title": "Event Promoting Website",
+      "description": "Website to allow local colleges to announce details of events conducted by them improving online reach.",
+      "skills": ["React", "Python", "CSS", "Django", "SQL"],
+      "demo": "https://github.com/meghanaraokanneganti/",
+      "source": "https://github.com/meghanaraokanneganti/"
+    },
+    {
+      "title": "Sentiment analysis",
+      "description": "Classifying the Amazon product review data fine-tuning pretrained models like BERT and GPT.",
+      "skills": ["Python", "Tensorflow", "Machine learning"],
+      "demo": "https://github.com/meghanaraokanneganti/Sentiment-analysis/blob/main/Written%20submission.pdf",
+      "source": "https://github.com/meghanaraokanneganti/Sentiment-analysis"
+    },
+    {
+      "title": "Image relevance",
+      "description": "Identify the images not matching original text in tweet data. Multimodal deep learning model.",
+      "skills": ["Python", "Tensorflow", "Machine learning"],
+      "demo": "https://github.com/meghanaraokanneganti/Machine-learning-projects/tree/main/Image%20relevance",
+      "source": "https://github.com/meghanaraokanneganti/Machine-learning-projects/tree/main/Image%20relevance"
+    }
+  ]
+  

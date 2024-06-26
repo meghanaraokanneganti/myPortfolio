@@ -1,0 +1,31 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "AI/ML",
+      "imageSrc": "skills/mlIcon.png"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "skills/docker.png"
+    },
+    {
+      "title": "Kubernetes",
+      "imageSrc": "skills/kube.png"
+    }
+  ]
+  

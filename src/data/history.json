@@ -1,0 +1,30 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "OpenText",
+      "startDate": "June 2018",
+      "endDate": "Dec 2021",
+      "experiences": ["Worked on Documentum LifeSciences Solutions", "Worked on microservcies"],
+      "imageSrc": "history/opentext.png"
+    },
+    {
+      "role": "Software Intern",
+      "organisation": "OpenText",
+      "startDate": "Aug 2017",
+      "endDate": "May 2018",
+      "experiences": ["Worked on Selenium Automation", "Automated mobile and windows desktop clients"],
+      "imageSrc": "history/opentext.png"
+    },
+    {
+      "role": "Software Intern",
+      "organisation": "Department of Conservation",
+      "startDate": "Feb 2023",
+      "endDate": "Dec 2023",
+      "experiences": [
+        "Worked on building RESTful web services",
+        "Automating scipts to upload content to databases"
+      ],
+      "imageSrc": "history/doc.png"
+    }
+  ]
+  
